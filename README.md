@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves lear
 ## Connect with Me
 
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 📝 Website: [your-website.com](https://your-website.com)
 - 💼 LinkedIn: [linkedin.com/in/alper-serin]((https://www.linkedin.com/in/alper-serin/))
 
 Thanks for visiting my GitHub! Feel free to check out my repositories and contribute or give feedback. 😄
