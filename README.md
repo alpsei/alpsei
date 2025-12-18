@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves lear
 
 ## Skills & Technologies
 
-- **Languages**: C#, Dart, C++, Python, Java
-- **Frameworks**: Flutter, WinForms
+- **Languages**: C#, Dart, C++, Python, Java, Kotlin
+- **Frameworks**: Flutter, WinForms, .NET MAUI
 - **Database**: SQL Server, Firebase
 - **Tools**: Git, IntelliJ IDEA, Visual Studio
 - **Other**: Docker, REST APIs, UI/UX Design
