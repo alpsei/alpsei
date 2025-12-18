@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves lear
 
 - 🚀 A mobile app that lets you watch YouTube videos with loved ones and chat at the same time (currently working on Android).
 - ⏰ Pomodoro App
+- ♾️ Takasla! 
   
 ## Connect with Me
 
